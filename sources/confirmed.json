@@ -1,0 +1,18 @@
+[
+  {
+    "page": "old.html",
+    "fields": {
+      "activity_id": "a1",
+      "participants": 80,
+      "place": "东门"
+    }
+  },
+  {
+    "page": "new.html",
+    "fields": {
+      "activity_id": "a2",
+      "participants": 36,
+      "place": "操场"
+    }
+  }
+]

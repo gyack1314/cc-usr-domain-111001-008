@@ -1,0 +1,5 @@
+{
+  "minimum_confirmed_match": 1.0,
+  "maximum_quarantine_ratio": 0.4,
+  "canary_percent": 25
+}

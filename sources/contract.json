@@ -1,0 +1,6 @@
+{
+  "GET /index": "活动页面入口",
+  "GET /page/{old,new,mixed}": "HTML原文，混合版本和错误字段",
+  "confirmed.json": "人工确认部分字段，未给出的字段不进入分母",
+  "stored_pages": "sources下HTML可作为离线重放原文"
+}
